@@ -1,0 +1,6 @@
+E:\Code\ConsoleApplicationStudy\MySQLBatch\bin\Debug\MySQLBatch.exe.config
+E:\Code\ConsoleApplicationStudy\MySQLBatch\bin\Debug\MySQLBatch.exe
+E:\Code\ConsoleApplicationStudy\MySQLBatch\bin\Debug\MySQLBatch.pdb
+E:\Code\ConsoleApplicationStudy\MySQLBatch\obj\Debug\ResolveAssemblyReference.cache
+E:\Code\ConsoleApplicationStudy\MySQLBatch\obj\Debug\MySQLBatch.exe
+E:\Code\ConsoleApplicationStudy\MySQLBatch\obj\Debug\MySQLBatch.pdb
